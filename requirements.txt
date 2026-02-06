@@ -7,3 +7,6 @@ youtube-search-python
 colorama
 requests
 pyfiglet
+gTTS
+PyTgCalls
+ffmpeg-python
