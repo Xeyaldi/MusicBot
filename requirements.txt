@@ -1,12 +1,9 @@
 pyrogram
-Tgcrypto
+tgcrypto
 aylak
 yt-dlp
-youtube-search
 youtube-search-python
-colorama
 requests
 pyfiglet
 gTTS
-PyTgCalls
-ffmpeg-python
+PyTgCalls==0.8.5
