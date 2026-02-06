@@ -6,4 +6,4 @@ youtube-search-python
 requests
 pyfiglet
 gTTS
-PyTgCalls==0.8.5
+PyTgCalls
